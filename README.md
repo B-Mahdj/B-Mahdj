@@ -9,11 +9,10 @@
 
 - 📫 How to reach me **bilal.mahdjoubi95@gmail.com**
 
-<p align="center">
-    <a href="https://github.com/B-Mahdj/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aman KUMAR's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeOne45&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+
+## About this profile
+
+- If a project doesn't have a README.md you can consider it as a project I found useless to put forward. I try to put in top of the repositories list the most important repositories.
 
 ## 📊 My Github Stats
 
@@ -25,6 +24,12 @@
 
 <br/>
 <br/>
+
+<p align="center">
+    <a href="https://github.com/B-Mahdj/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aman KUMAR's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeOne45&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 ## Connect with me:
 <p align="left">
