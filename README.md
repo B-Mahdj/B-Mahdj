@@ -10,9 +10,10 @@
 - 📫 How to reach me **bilal.mahdjoubi95@gmail.com**
 
 
-## About this profile
+## About the repositories
 
 - If a project doesn't have a README.md you can consider it as a project I found useless to put forward. I try to put in top of the repositories list the most important repositories.
+- Sometimes you will find school projects in this repo with no README or in french, they are most likely not interesting.
 
 ## 📊 My Github Stats
 
