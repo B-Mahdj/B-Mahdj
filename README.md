@@ -17,6 +17,7 @@
 
 ### Programming metrics
 
+![image](https://github.com/user-attachments/assets/a60f3d1f-b689-48bc-83b4-f20100657dc9)
 
 <img
   height="300"
