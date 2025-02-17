@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Bilal</h1>
-<h3 align="center">I'm a passionate software engineer student from France.</h3>
+<h3 align="center">I'm a passionate software engineer from France.</h3>
 
 ## About Me
 
-- 🔭 I’m currently working on **[LoLRush](https://www.lolrush.com/)**
+- 🔭 I’m currently working on **[Deadliest-Flag-Color](https://github.com/B-Mahdj/Deadliest-Flag-Color)** my main side-project. 
 
-- 🌱 I’m currently learning **Lean Startup Methodology**
+- 🌱 I’m currently learning **Terraform** <img alt="Terraform" src="https://www.datocms-assets.com/2885/1731373310-terraform_white.svg" width="100px">
 
 - 📫 How to reach me **bilal.mahdjoubi95@gmail.com**
 
@@ -14,6 +14,14 @@
 
 - If a project doesn't have a README.md you can consider it as a project I found useless to put forward. I try to put in top of the repositories list the most important repositories.
 - Sometimes you will find school projects in this repo with no README or in french, they are most likely not interesting.
+
+### Programming metrics
+
+
+<img
+  height="300"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=b-mahdj&skills=JavaScript,TypeScript,Python,HTML,CSS,PHP,Java,TSQL&width=640"
+/>
 
 ## 📊 My Github Stats
 
@@ -28,7 +36,7 @@
 
 <p align="center">
     <a href="https://github.com/B-Mahdj/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aman KUMAR's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeOne45&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="B-Mahdj streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeOne45&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
