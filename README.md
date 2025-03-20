@@ -3,11 +3,13 @@
 
 ## About Me
 
-- 🔭 I’m currently working on **[Deadliest-Flag-Color](https://github.com/B-Mahdj/Deadliest-Flag-Color)** my main side-project. 
+- 🔭 I’m currently working on **[My Portfolio](https://b-mahdj.github.io/Portfolio/)** my main side-project & Portfolio.
 
-- 🌱 I’m currently learning **Terraform** <img alt="Terraform" src="https://www.datocms-assets.com/2885/1731373310-terraform_white.svg" width="100px">
+- 🌱 I’m currently learning **[MDX](https://github.com/mdx-js/mdx)** and trying to build something around it. 
 
 - 📫 How to reach me **bilal.mahdjoubi95@gmail.com**
+
+- My Portfolio is available here : https://b-mahdj.github.io/Portfolio/
 
 
 ## About the repositories
