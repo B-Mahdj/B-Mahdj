@@ -1,30 +1,25 @@
 <h1 align="center">Hi, I'm Bilal</h1>
 <h3 align="center">I'm a passionate software engineer from France.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=B-Mahdj&label=Profile%20views&color=0e75b6&style=flat" alt="B-Mahdj" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=B-Mahdj" alt="B-Mahdj" /></a> </p>
+
 ## About Me
 
-- 🔭 I’m currently working on **[My Portfolio](https://b-mahdj.github.io/Portfolio/)** my main side-project & Portfolio.
+- 🔭 I’m currently working on **Open Source projects like [OpenTelemetry](https://github.com/open-telemetry)**
 
-- 🌱 I’m currently learning **[MDX](https://github.com/mdx-js/mdx)** and trying to build something around it. 
+- 🌱 I’m currently learning **[Kubernetes](https://github.com/kubernetes)**
 
 - 📫 How to reach me **bilal.mahdjoubi95@gmail.com**
 
-- My Portfolio is available here : https://b-mahdj.github.io/Portfolio/
+- 👨‍💻 My Portfolio is available here : https://b-mahdj.github.io/Portfolio/
 
 
 ## About the repositories
 
 - If a project doesn't have a README.md you can consider it as a project I found useless to put forward. I try to put in top of the repositories list the most important repositories.
 - Sometimes you will find school projects in this repo with no README or in french, they are most likely not interesting.
-
-### Programming metrics
-
-![image](https://github.com/user-attachments/assets/a60f3d1f-b689-48bc-83b4-f20100657dc9)
-
-<img
-  height="300"
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=b-mahdj&skills=JavaScript,TypeScript,Python,HTML,CSS,PHP,Java,TSQL&width=640"
-/>
 
 ## 📊 My Github Stats
 
@@ -36,12 +31,6 @@
 
 <br/>
 <br/>
-
-<p align="center">
-    <a href="https://github.com/B-Mahdj/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="B-Mahdj streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeOne45&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
 ## Connect with me:
 <p align="left">
